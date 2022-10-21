@@ -5,3 +5,6 @@ compras
 Agrego
 texto
 lista1
+lista2
+lista2
+lista2
